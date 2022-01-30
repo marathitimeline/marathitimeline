@@ -1,5 +1,7 @@
 
-![Eddie Jaoude] (https://wari.marathitimeline.com/img/kirtan%20images/satarkar%20best%20car%20loan%20company.webp)
+<img height=50% width=50%
+     src="https://wari.marathitimeline.com/img/kirtan%20images/satarkar%20best%20car%20loan%20company.webp" align="center"
+     alt="GitHub badge" />
 
  <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out </p>
 
@@ -26,3 +28,5 @@
  
  
 </p>
+
+<img src="https://wari.marathitimeline.com/img/kirtan%20images/satarkar%20best%20car%20loan%20company.webp" alt="GitHub badge" />
