@@ -1,5 +1,5 @@
 
-![Eddie Jaoudel (https://user-images.githubusercontent.com/624760/87244288-890e1880-c433-11ea-8383-3ea0704104b7.png)
+![Eddie Jaoudel (https://wari.marathitimeline.com/img/kirtan%20images/satarkar%20best%20car%20loan%20company.webp)
 
  <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out </p>
 
