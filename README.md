@@ -1,6 +1,7 @@
-<!DOCTYPEhtml>
+
   
 <head>
+  
      <style>
      .column {
   float: left;
@@ -8,7 +9,7 @@
   padding: 5px;
 }
 
-/* Clear floats after image containers */
+
 .row::after {
   content: "";
   clear: both;
@@ -16,7 +17,8 @@
 }
      </style>
               </head>
-<body>
+
+
 
 <div class="row">
   <div class="column">
@@ -61,5 +63,4 @@
 
 <img src="mydp.jpg" alt="GitHub badge" />
               
-              </body>
-            </html>
+             
