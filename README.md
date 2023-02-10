@@ -1,4 +1,4 @@
-
+<!DOCTYPEhtml>
 <header>   
 <style>
      .column {
@@ -61,3 +61,4 @@
 <img src="mydp.jpg" alt="GitHub badge" />
               
               </body>
+            </html>
