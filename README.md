@@ -11,7 +11,7 @@
      <img  height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
      alt="GitHub badge" /> 
-     
+  <header>   
 <style>
      .column {
   float: left;
@@ -26,6 +26,7 @@
   display: table;
 }
      </style>
+              </header>
  <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out </p>
 
 <p align="center">
