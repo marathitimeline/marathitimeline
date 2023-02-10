@@ -1,5 +1,5 @@
 
-<img height=50% width=50%
+<img 
      src="mydp.jpg" align="center"
      alt="GitHub badge" />
 
