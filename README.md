@@ -1,11 +1,11 @@
 
-<img height="25%" width="25%"
+<img height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" align="center"
      alt="GitHub badge" />
-     <img 
+     <img  height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" align="center"
      alt="GitHub badge" />
-     <img 
+     <img  height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" align="center"
      alt="GitHub badge" />
      
