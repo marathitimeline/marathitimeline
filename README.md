@@ -1,6 +1,7 @@
 <!DOCTYPEhtml>
-<header>   
+  
 <head>
+     <style>
      .column {
   float: left;
   width: 33.33%;
@@ -13,7 +14,7 @@
   clear: both;
   display: table;
 }
-     
+     </style>
               </head>
 <body>
 
