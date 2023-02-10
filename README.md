@@ -1,15 +1,31 @@
-
-<center><img height="5%" width="5%"
+<div class="row">
+  <div class="column">
+<img height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
      alt="GitHub badge" />
+       <div class="column">
      <img  height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
      alt="GitHub badge" />
+            <div class="column">
      <img  height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
-     alt="GitHub badge" /> </center>
+     alt="GitHub badge" /> 
      
+<style>
+     .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+     </style>
  <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out </p>
 
 <p align="center">
