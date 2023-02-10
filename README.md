@@ -1,17 +1,5 @@
-<div class="row">
-  <div class="column">
-<img height="5%" width="5%"
-     src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
-     alt="GitHub badge" />
-       <div class="column">
-     <img  height="5%" width="5%"
-     src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
-     alt="GitHub badge" />
-            <div class="column">
-     <img  height="5%" width="5%"
-     src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
-     alt="GitHub badge" /> 
-  <header>   
+
+<header>   
 <style>
      .column {
   float: left;
@@ -27,6 +15,23 @@
 }
      </style>
               </header>
+<body>
+
+<div class="row">
+  <div class="column">
+<img height="5%" width="5%"
+     src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
+     alt="GitHub badge" />
+       <div class="column">
+     <img  height="5%" width="5%"
+     src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
+     alt="GitHub badge" />
+            <div class="column">
+     <img  height="5%" width="5%"
+     src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+     alt="GitHub badge" /> 
+  
+
  <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out </p>
 
 <p align="center">
@@ -54,3 +59,5 @@
 </p>
 
 <img src="mydp.jpg" alt="GitHub badge" />
+              
+              </body>
