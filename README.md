@@ -2,7 +2,7 @@
   
 <head>
   
-     <style>
+     <style type="text/css" >
      .column {
   float: left;
   width: 33.33%;
