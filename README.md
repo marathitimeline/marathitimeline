@@ -5,45 +5,46 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name= 'viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <style>.container {
-  position: relative;
-  width: 50%;
+<style>
+.container {
+position: relative;
+width: 50%;
 }
 
 .image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+opacity: 1;
+display: block;
+width: 100%;
+height: auto;
+transition: .5s ease;
+backface-visibility: hidden;
 }
 
 .middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
+transition: .5s ease;
+opacity: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%)
 }
 
 .container:hover .image {
-  opacity: 0.3;
+opacity: 0.3;
 }
 
 .container:hover .middle {
-  opacity: 1;
+opacity: 1;
 }
 
 .text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
+background-color: #4CAF50;
+color: white;
+font-size: 16px;
+padding: 16px 32px;
 }
-    </style>
+</style>
 </head>
 
 <div class="container">
