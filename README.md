@@ -1,6 +1,12 @@
-
-  
+<!DOCTYPE html>
+<html>
 <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
   
      <style type="text/css" >
  .column {
@@ -8,7 +14,6 @@
   width: 33.33%;
   padding: 5px;
 }
-
 
 .row::after {
   content: "";
@@ -22,15 +27,15 @@
 
 <div class="row">
   <div class="column">
-<img display: flex height="5%" width="5%"
+<img flex:1 height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
      alt="GitHub badge" />
        <div class="column">
-     <img display: flex height="5%" width="5%"
+     <img flex:1 height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
      alt="GitHub badge" />
             <div class="column">
-     <img display: flex  height="5%" width="5%"
+     <img flex:1  height="5%" width="5%"
      src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
      alt="GitHub badge" /> 
   
